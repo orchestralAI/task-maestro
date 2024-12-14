@@ -1,0 +1,25 @@
+[
+    {
+        "id": "95f13a52-7eb5-443c-a19c-b10d070d92ad",
+        "title": "Inbox",
+        "description": "Default project for unassigned tasks.",
+        "tasks": [
+            "941d8478-77f4-4dd8-97d3-192ac55d8fea",
+            "f4009bca-2b0b-497a-9587-5bdfd035c8ce"
+        ],
+        "completed": false,
+        "created_at": "2024-12-13 17:43:47",
+        "updated_at": "2024-12-13 17:43:47"
+    },
+    {
+        "id": "f383e4b9-76f7-4dbe-8623-7b9115cd849a",
+        "title": "Personal Development",
+        "description": "Tasks for self-improvement",
+        "tasks": [
+            "ca6fda5f-ae47-461a-adfc-cd7328e681fd"
+        ],
+        "completed": false,
+        "created_at": "2024-12-13 17:43:47",
+        "updated_at": "2024-12-13 17:43:47"
+    }
+]

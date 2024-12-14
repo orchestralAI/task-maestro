@@ -1,0 +1,41 @@
+[
+    {
+        "id": "941d8478-77f4-4dd8-97d3-192ac55d8fea",
+        "title": "Buy groceries",
+        "notes": "Milk, eggs, and bread",
+        "due_date": null,
+        "completed": false,
+        "status": "ACTIVE",
+        "urgent": false,
+        "repeat_behavior": null,
+        "dependencies": [],
+        "created_at": "2024-12-13 17:43:47",
+        "updated_at": "2024-12-13 17:43:47"
+    },
+    {
+        "id": "f4009bca-2b0b-497a-9587-5bdfd035c8ce",
+        "title": "Read a book",
+        "notes": null,
+        "due_date": null,
+        "completed": false,
+        "status": "ACTIVE",
+        "urgent": false,
+        "repeat_behavior": null,
+        "dependencies": [],
+        "created_at": "2024-12-13 17:43:47",
+        "updated_at": "2024-12-13 17:43:47"
+    },
+    {
+        "id": "ca6fda5f-ae47-461a-adfc-cd7328e681fd",
+        "title": "Meditate for 10 minutes",
+        "notes": null,
+        "due_date": null,
+        "completed": false,
+        "status": "ACTIVE",
+        "urgent": false,
+        "repeat_behavior": null,
+        "dependencies": [],
+        "created_at": "2024-12-13 17:43:47",
+        "updated_at": "2024-12-13 17:43:47"
+    }
+]
